@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    color: oldlace;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("7.jpg");
+}
+
+h1{
+    margin: 50px;
+    padding-bottom: 50px;
+}
+div{
+    margin: 100px;
+    padding: 50px;
+    border:thistle solid 1px;
+}
